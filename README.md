@@ -5,23 +5,28 @@
 <section>Contents</section>
 <div>
   <ul>
-    <li>Features</li>
-    <li>Installation</li>
-    <li>Configuration</li>
-    <li>Running the Application</li>
-    <li>API Endpoints</li>
-    <li>Technologies Used</li>
-    <li>Project Structure</li>
+    <li><a>Features</a></li>
+    <li><a>Installation</a></li>
+    <li><a>Configuration</a></li>
+    <li><a>Running the Application</a></li>
+    <li><a>API Endpoints</a></li>
+    <li><a>Technologies Used</a></li>
+    <li><a>Project Structure</a></li>
   </ul>
 </div>
 <div>
 <section>Features</section>
 <ul>
-  <li>User Signup</li>
-  <li>User Login</li>
-  <li>Create Posts</li>
-  <li>View Posts with Pagination</li>
-  <li>WT Authentication</li>
+  <li><a>User Signup</a></li>
+  <li><a>User Login</a></li>
+  <li><a>Create Posts</a></li>
+  <li><a>View Posts with Pagination</a></li>
+  <li><a>WT Authentication</a></li>
   </ul>
+</div>
+<div>
+<section>Installation</section>
+  <ol><li>clone the repository</li></ol>
+  <span>git clone:<a href="https://github.com/Mayank561/MelodyVerse.git"</a></span>
 </div>
 </div>
