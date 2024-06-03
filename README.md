@@ -25,8 +25,8 @@
   </ul>
 </div>
 <div>
-<section>Installation</section>
+<h3>Installation</h3>
   <ol><li>clone the repository</li></ol>
-  <span>git clone:<a href="https://github.com/Mayank561/MelodyVerse.git"</a></span>
+  <span>git clone:href="https://github.com/Mayank561/MelodyVerse.git"/span>
 </div>
 </div>
